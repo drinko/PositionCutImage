@@ -1,0 +1,9 @@
+D:\GameGit\web\Frontweb\CutImage\bin\Debug\CutImage.exe.config
+D:\GameGit\web\Frontweb\CutImage\bin\Debug\CutImage.exe
+D:\GameGit\web\Frontweb\CutImage\bin\Debug\CutImage.pdb
+D:\GameGit\web\Frontweb\CutImage\obj\Debug\CutImage.csprojResolveAssemblyReference.cache
+D:\GameGit\web\Frontweb\CutImage\obj\Debug\CutImage.Form1.resources
+D:\GameGit\web\Frontweb\CutImage\obj\Debug\CutImage.Properties.Resources.resources
+D:\GameGit\web\Frontweb\CutImage\obj\Debug\CutImage.csproj.GenerateResource.Cache
+D:\GameGit\web\Frontweb\CutImage\obj\Debug\CutImage.exe
+D:\GameGit\web\Frontweb\CutImage\obj\Debug\CutImage.pdb
